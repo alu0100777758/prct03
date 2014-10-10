@@ -1,0 +1,3 @@
+¿cuales son las diferencias entre usar el intérprete de ruby o el intérprete interactivo?
+	el prompt cambia, mostrando el archivo que estamos ejecutando. También, como es lógico la orden se ejecuta automaticamente retornando a la terminal sin necesidad de introducir el carácter de fin de fichero (ya está en el propio fichero que hemos pasado como argumento);
+
