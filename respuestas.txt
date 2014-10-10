@@ -1,3 +1,6 @@
-¿cuales son las diferencias entre usar el intérprete de ruby o el intérprete interactivo?
+1-¿cuales son las diferencias entre usar el intérprete de ruby o el intérprete interactivo?
 	el prompt cambia, mostrando el archivo que estamos ejecutando. También, como es lógico la orden se ejecuta automaticamente retornando a la terminal sin necesidad de introducir el carácter de fin de fichero (ya está en el propio fichero que hemos pasado como argumento);
+
+2-¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+	Pry nos proporciona un resaltado de texto , lo cual nos facilita la comprensión del código a la par que reduce los errores sintácticos que pudieramos tener al destacarlos visualmente.
 
