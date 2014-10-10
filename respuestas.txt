@@ -2,5 +2,5 @@
 	el prompt cambia, mostrando el archivo que estamos ejecutando. También, como es lógico la orden se ejecuta automaticamente retornando a la terminal sin necesidad de introducir el carácter de fin de fichero (ya está en el propio fichero que hemos pasado como argumento);
 
 2-¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
-	Pry nos proporciona un resaltado de texto , lo cual nos facilita la comprensión del código a la par que reduce los errores sintácticos que pudieramos tener al destacarlos visualmente.
+	Pry nos proporciona un resaltado de texto , lo cual nos facilita la comprensión del código a la par que reduce los errores sintácticos que pudieramos tener al destacarlos visualmente. Ademas, nos permite modificar la línea de ejecuccion del programa, permitiendonos usar pry como si de irb se tratase en medio de la ejeccucion de un código  , manteniendo las modificaciones que realicemos hasta ese momento al devolver el control al flujo principal.
 
